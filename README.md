@@ -3,9 +3,9 @@ A helper tool for DM's to be able to generate NPCs for one shots or campaign ite
 
 
 If you've got a BUNCH of training data, you can type out your prompts to get fun descriptions of fakelore for your homebrew campaign or one shot!
-<img width="1090" alt="image" src="https://github.com/DavidWeaverAudio/DnDGPT/assets/78392269/72acc753-6b17-4bee-b2b3-dd64f2415e93">
+<img width="840" alt="image" src="https://github.com/DavidWeaverAudio/DnDGPT/assets/78392269/494ae293-f5a2-4ee4-ada8-77f8bc0d6099">
 
-
+# How To
 Simple go to openAI and set up an API key : https://platform.openai.com/docs/api-reference
 
 Then add the API key to the places indicated in;
