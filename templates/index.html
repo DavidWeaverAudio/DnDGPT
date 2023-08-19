@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>D&D Companion with GPT</title>
+</head>
+<body>
+    <button onclick="generateOutput()">Generate</button>
+    <p id="output"></p>
+
+    <script>
+        async function generateOutput() {
+            const prompt = "Generate a D&D description:"; 
+            const response = await fetch('/generate', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ prompt: prompt })
+            });
+            const data = await response.json();
+            document.getElementById("output").innerText = data.description;
+        }
+    </script>
+</body>
+</html>
