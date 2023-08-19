@@ -1,9 +1,8 @@
 # DnDGPT<img src= "https://github.com/DavidWeaverAudio/DnDGPT/assets/78392269/00cc5d15-2f6e-4a33-bf91-413a15873084" width=100 height=100 style="float:right" /><div style="clear:both">
 A helper tool for DM's to be able to generate NPCs for one shots or campaign items with some fun backstory, personality and lore.
-
-
 If you've got a BUNCH of training data, you can type out your prompts to get fun descriptions of fakelore for your homebrew campaign or one shot!
 
+# What it looks like
 <img width="840" alt="image" src="https://github.com/DavidWeaverAudio/DnDGPT/assets/78392269/494ae293-f5a2-4ee4-ada8-77f8bc0d6099">
 
 # How To
